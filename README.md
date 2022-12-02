@@ -10,4 +10,5 @@ analysis:
 -  `licor_preliminary.ipynb`: jupyter notebook with preliminary analysis of licor data
 -  `landmark_preliminary.ipynb`: jupyter notebook with preliminary analysis of landmark data
 
-`sampling_design.pdf` contains information regarding the factor combinations of `scion`, `rootstock`, and `location`
+`sampling_design.pdf` contains information regarding the factor combinations of `scion`, `rootstock`, and `location`. 
+
